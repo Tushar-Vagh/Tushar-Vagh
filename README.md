@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharvagh21
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I have interest in coding
+- 🌱 I’m currently learning data structures and algorithms.
 
 <!---
 tusharvagh21/tusharvagh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
