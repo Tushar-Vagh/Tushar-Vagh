@@ -30,14 +30,14 @@
 
 <div>&nbsp;
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tusharvagh21&show_icons=true&theme=dark" alt="manoj" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tushar-Vagh&show_icons=true&theme=dark" alt="tushar" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharvagh21&layout=compact&theme=dark" alt="manoj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Vagh&layout=compact&theme=dark" alt="tushar" />
 </p>
 &nbsp;
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharvagh21&theme=dark" alt="manoj" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Vagh&theme=dark" alt="tushar" />
 </p>
 </div>
