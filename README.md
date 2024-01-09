@@ -36,8 +36,4 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Vagh&layout=compact&theme=dark" alt="tushar" />
 </p>
-&nbsp;
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Vagh&theme=dark" alt="tushar" />
-</p>
 </div>
