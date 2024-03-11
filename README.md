@@ -2,7 +2,6 @@
 
 ### <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on Stack-Overflow clone
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects related to full stack
 - 💬 Ask me about Node js, React js, Redux, Mongo db
