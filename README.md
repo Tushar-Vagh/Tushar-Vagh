@@ -28,12 +28,3 @@
 <img src="https://user-images.githubusercontent.com/84341752/168604280-e2b697a1-86df-4a28-9797-2875d4bba352.svg" width="40">
 </div>
 
-<div>&nbsp;
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tushar-Vagh&show_icons=true&theme=dark" alt="tushar" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Vagh&layout=compact&theme=dark" alt="tushar" />
-</p>
-</div>
