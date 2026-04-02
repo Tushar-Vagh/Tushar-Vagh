@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on ai/ml projects<br>👯 I’m looking to collaborate on contributions<br>🌱 I’m currently learning java<br>💬 Ask me about web development
+
+🚀 Full Stack Developer with experience building **real-world scalable applications** and modern web interfaces
+
+🔭 Currently working on **AI/ML-based projects and intelligent systems**
+
+🏗️ Built and deployed a **Police Recruitment Management System** across multiple districts for real-time candidate tracking
+
+💡 Passionate about building **data-driven dashboards, fintech applications, and user-centric platforms**
+
+🧠 Strong focus on **clean architecture, reusable components, and performance optimization**
+
+🌱 Currently learning and improving in **Java and system design**
+
+👯 Open to collaboration on **innovative web and AI projects**
+
+💬 Ask me about **React, Node.js, .NET, dashboards, or full-stack development**
+
 
 
 ## 🌐 Socials:
