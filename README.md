@@ -12,3 +12,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+## 🚀 Featured Projects
+
+| 🚀 Project                     | 💡 Description                                                                                                                                    | 🌐 Live                                                        | 💻 Code                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Finlytics Dashboard**        | Finance analytics dashboard with charts, insights, role-based UI, and advanced filtering                                                          | 🔗 [View](https://finlytics-profesional-financial.vercel.app/) | 📂 [GitHub](https://github.com/Tushar-Vagh/finlytics-dashboard)     |
+| **Police Bharati 2026 System** | Real-world recruitment management system for candidate registration, verification, and physical test tracking, deployed across multiple districts | 🔗 Deployed (Beed, Ahilyanagar, Washim, Kolhapur)              | 📂 [GitHub](https://github.com/Tushar-Vagh/police-bharti-system)    |
+| **Loan Origination System**    | Enterprise-level loan management system with multi-step forms, PDF generation, and structured workflow                                            | —                                                              | 📂 [GitHub](https://github.com/Tushar-Vagh/loan-origination-system) |
+| **StackOverflow Clone**        | Gamified Q&A platform with voting system, points, and trophies                                                                                    | 🔗 [View](https://stackoverflow98.netlify.app/)                | 📂 [GitHub](https://github.com/Tushar-Vagh/stackoverflow-clone)     |
+| **Task Management App**        | Full-stack app with JWT authentication, CRUD operations, and responsive UI                                                                        | —                                                              | 📂 [GitHub](https://github.com/Tushar-Vagh/task-management-app)     |
+
+
