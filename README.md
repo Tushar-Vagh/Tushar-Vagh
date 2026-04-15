@@ -1,20 +1,87 @@
-# 💫 About Me:
+<h1 align="center">Full Stack Developer</h1>
 
-🚀 Full Stack Developer with experience building **real-world scalable applications** and modern web interfaces
+<p align="center">
+  <b>React · Node.js · .NET · AI/ML Systems</b><br/>
+  <sub>Building scalable, data-driven applications that ship to real users</sub>
+</p>
 
-🔭 Currently working on **AI/ML-based projects and intelligent systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Systems-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat-square" />
+</p>
 
-🏗️ Built and deployed a **Police Recruitment Management System** across multiple districts for real-time candidate tracking
+---
 
-💡 Passionate about building **data-driven dashboards, fintech applications, and user-centric platforms**
+## About
 
-🧠 Strong focus on **clean architecture, reusable components, and performance optimization**
+Full Stack Developer with hands-on experience shipping production systems across real operational environments — including a **multi-district Police Recruitment Management System** built for real-time candidate tracking at scale.
 
-🌱 Currently learning and improving in **Java and system design**
+Currently focused on **AI/ML-integrated intelligent systems**, data-driven dashboards, and fintech applications. Strong opinions on clean architecture, composable component design, and performance that actually matters at runtime.
 
-👯 Open to collaboration on **innovative web and AI projects**
+Not just a feature builder — focused on laying foundations other developers can confidently build on top of.
 
-💬 Ask me about **React, Node.js, .NET, dashboards, or full-stack development**
+---
+
+## Shipped Work
+
+| Project | Description | Scope |
+|---|---|---|
+| **Police Recruitment System** | Real-time candidate tracking and management | Multi-district production deployment |
+| **AI/ML Intelligent Systems** | Data-driven applications with ML integrations | End-to-end full stack |
+| **Fintech Dashboards** | User-centric, performance-optimized interfaces | Frontend + backend |
+
+---
+
+## Tech Stack
+
+**Frontend**
+```
+React    TypeScript    HTML/CSS    Component Architecture
+```
+
+**Backend**
+```
+Node.js    .NET    REST APIs    SQL
+```
+
+**Domains**
+```
+AI/ML Integration    Dashboards    Fintech    System Design
+```
+
+**Currently leveling up**
+```
+Java    Distributed System Design
+```
+
+---
+
+## Core Principles
+
+- **Clean architecture** over clever shortcuts
+- **Reusable, composable components** — build once, scale everywhere
+- **Performance optimization** as a first-class concern, not an afterthought
+- **Data-driven design** — dashboards and UIs that reflect real operational needs
+
+---
+
+## Let's Build Something
+
+Open to collaborating on:
+
+- Innovative web applications with real user impact
+- AI/ML-integrated full-stack systems
+- Scalable architecture projects
+- Fintech or data-heavy platforms
+
+**Ask me about:** React, Node.js, .NET, dashboard architecture, or full-stack system design.
+
+---
+
+<p align="center">
+  <sub>Always learning. Always shipping.</sub>
+</p>
 
 
 
